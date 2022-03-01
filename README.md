@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/pati-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pati-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pati-oliveira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pati-oliveira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pati-oliveira&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   ##
@@ -25,4 +25,7 @@
   <a href = "mailto:patriciadeoliveira10@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patideoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+</div>
+
+  ![Snake animation](https://github.com/patio-liveira/pati-oliveira/blob/output/github-contribution-grid-snake.svg)
 </div>
