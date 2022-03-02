@@ -1,8 +1,8 @@
-### Bem-vindo ao meu GitHub!
-
-- 💡 Estudando Desenvolvimento Front End
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: ela/dela
+### Hi! I'm Patrícia de Oliveira. Welcome to my GitHub!
+ 
+- 🌱 Studying Systems Analysis and Development
+- 💡  Topics of interest: Lean Startup, Agile Methodologies, Growth Hacking, Jobs To Be Done, Artificial Intelligence (IA), ChatBot, Machine Learning, Virtual Reality, Augmented Reality, 3D Printing, Analytics, Soft Skills.
+- 😄 Pronouns: she/her
 
 <br><br>
 
